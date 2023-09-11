@@ -77,7 +77,7 @@ Please support me by donating any amount through this link <a href="https://flut
 
 ## Donators
 
-All donators name will appear hear. Be the first to support this project and lets safe the world from email attacks.
+All donators name will appear here. Be the first to support this project and lets safe the world from email attacks.
 
 
 ## Contact
