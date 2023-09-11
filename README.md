@@ -50,7 +50,7 @@ Phishing emails are more pervasive than ever before and threat actors are growin
 
 ## Project Solution And Functionalities
 
-I am developing Violet to perform the followings so as to reduce all the highlighted problems and cost and its going to be 100% opensource and free to everybody, organizations and comapanies.
+I am developing Violet to perform the followings so as to reduce all the highlighted problems and cost and its going to be 100% opensource and free to everybody, organizations and companies of any size.
 
 - Blocks phishing attacks even before it happens
 - Excalate legitmate spam emails to main inbox after successful thorough scans.
