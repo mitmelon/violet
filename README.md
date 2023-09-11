@@ -22,7 +22,7 @@ More than 50% of IT decision makers state that phishing attacks represent a top 
 
 - Roughly 15 billion spam emails make their way across the internet everyday, which means that spam filters are “working overtime” and are liable to permit malicious phishing attack emails to slip through.
 
-- In 2021, 83% of organizations reported experiencing phishing attacks. In 2022, an additional six billion attacks are expected to occur.
+- In 2021, 83% of organizations reported experiencing phishing attacks. In 2022, six billion attacks were reported.
 
 - Thirty-percent of phishing emails are opened. This increases the probability of an individual unintentionally clicking on a malicious link or downloading a compelling-looking document that’s laced with malware.
 
