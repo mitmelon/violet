@@ -1,5 +1,5 @@
 <h1 align="center">VIOLET
-<a href="#" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Email gateman that provides Spam, Virus and Malware protection, full in-transit and at-rest email encryption and anti-phishing blocker using artificial intelligence." style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<a href="#" target="_blank"><img src="https://github.com/mitmelon/violet/assets/55149512/1dabdfe2-0882-43e2-8165-deffa3aa9f3b" alt="Email gateman that provides Spam, Virus and Malware protection, full in-transit and at-rest email encryption and anti-phishing blocker using artificial intelligence." style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <br>
 
