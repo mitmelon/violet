@@ -8,9 +8,9 @@
 
 ## Project Description
 
-Violet is the leading 100% free open-source email security solution helping you to protect your mail server against all email threats from the moment they emerge. The flexible architecture combined with the userfriendly, web-based management interface, allows IT professionals and businesses to control all incoming and outgoing emails with ease, and to protect their users from spam, viruses, phishing and trojans.
+Violet 100% free open-source email security solution helping you to protect your mail server against all email threats from the moment they emerge. The flexible architecture combined with the userfriendly, web-based management interface, allows IT professionals and businesses to control all incoming and outgoing emails with ease, and to protect their users from spam, viruses, phishing and trojans.
 
-Violet is an artificial intelligence tool that going to be trained on billions of data points to effectively detect all attacks and blocks them even before it reaches the end users.
+Violet uses artificial intelligence trained on billions of data points to effectively detect all attacks and blocks them even before it reaches the end users.
 
 ## Project Problem
 
